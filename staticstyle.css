@@ -22,7 +22,7 @@ h2{
     display: block;
     width: 95%;
 }
-@media screen and (min-device-width: 800px){
+@media screen and (min-device-width: 500px){
     .column{
         display: inline-block;
         width: 32%;
